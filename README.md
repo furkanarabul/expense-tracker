@@ -1,4 +1,4 @@
-# movie-app
+# expense-tracker app
 
 • I built a single-page **expense-list tracker** app with Reactjs.
 
