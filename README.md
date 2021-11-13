@@ -1,4 +1,4 @@
-# movie-app
+# expense-tracker-app
 
 • I built a single-page **expense-list tracker** app with Reactjs.
 
@@ -14,7 +14,15 @@ Live preview : https://expense-tracker-furkanarabul.vercel.app/
 npm install
 ```
 
+```
+yarn install
+```
+
 ### Compiles and hot-reloads for development
+
+```
+npm run start
+```
 
 ```
 yarn start
