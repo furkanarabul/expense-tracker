@@ -4,6 +4,10 @@
 
 • It allows for adding expenses and filter them by year, also provide a graph for easier understanding for total expenses.
 
+Live preview : https://expense-tracker-furkanarabul.vercel.app/
+
+![](recording.gif)
+
 ## Project setup
 
 ```
