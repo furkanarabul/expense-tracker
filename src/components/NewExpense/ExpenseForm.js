@@ -1,4 +1,4 @@
-import './ExpenseForm.css';
+import './ExpenseForm.scss';
 import React, { useState } from 'react';
 
 const ExpenseForm = (props) => {
@@ -91,9 +91,9 @@ const ExpenseForm = (props) => {
 					/>
 				</div>
 			</div>
-			<div className='new-expenses__actions'>
+			<div className='new-expense__actions'>
 				<button
-					class='new-expenses__actions--cancel'
+					class='new-expense__actions--cancel'
 					type='button'
 					onClick={props.onCancelEditing}
 				>

@@ -1,0 +1,30 @@
+.expenses-list {
+	list-style: none;
+	padding: 0;
+	&__fallback {
+		color: #3a3a3a;
+		text-align: center;
+	}
+	&__total {
+		font-size: 1.5rem;
+		font-weight: bold;
+		padding: 0.5rem;
+		color: white;
+		border-radius: 12px;
+		display: flex;
+		justify-content: flex-end;
+		margin-top: 2rem;
+	}
+	&__total--text {
+		color: rgb(201, 201, 201);
+		margin-right: 15px;
+		display: flex;
+		align-items: center;
+	}
+	&__total--amount {
+		background-color: #fef7de;
+		color: #d67938;
+		border-radius: 12px;
+		padding: 15px;
+	}
+}

@@ -1,5 +1,5 @@
 import ExpenseItem from './ExpenseItem';
-import './ExpensesList.css';
+import './ExpensesList.scss';
 const ExpensesList = (props) => {
 	props.items.forEach((element) => {
 		console.log(element.amount);

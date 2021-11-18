@@ -1,0 +1,24 @@
+.new-expense {
+	background-color: white;
+	padding: 1rem;
+	margin: 2rem auto;
+	width: 50rem;
+	max-width: 95%;
+	border-radius: 12px;
+	text-align: center;
+	margin-top: -45px;
+	button {
+		font: inherit;
+		border: none;
+		cursor: pointer;
+		padding: 1rem 2rem;
+		background-color: #008b4c;
+		color: white;
+		border-radius: 12px;
+		margin-right: 1rem;
+		&:hover,
+		:active {
+			background-color: #00703e;
+		}
+	}
+}

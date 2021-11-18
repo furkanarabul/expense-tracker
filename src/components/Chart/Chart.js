@@ -1,5 +1,5 @@
 import ChartBar from './ChartBar';
-import './Chart.css';
+import './Chart.scss';
 const Chart = (props) => {
 	const dataPointValues = props.dataPoints.map((dataPoint) => dataPoint.value);
 	const totalMaximum = Math.max(...dataPointValues);
