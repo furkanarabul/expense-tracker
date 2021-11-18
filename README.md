@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# expense-tracker-app
-=======
 # expense-tracker app
->>>>>>> 71ae210ca3ee8df67d0c224a8658ebdd4243d8d9
 
 • I built a single-page **expense-list tracker** app with Reactjs.
 
